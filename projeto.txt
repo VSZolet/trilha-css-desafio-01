@@ -1,0 +1,8 @@
+Div Banner com imagem de fundo.
+Tudo centralizado
+Content com uma imagem fixada de fundo no local sem nada escrito  (efeito)
+Texto lateral com sombro, junto a imagem fixada, na  esquerda, tbm espaçamento e tamanho fixo;
+
+mais uma imagem centralizada,
+rodapé fixo com link levando para o site da DIO.me
+
